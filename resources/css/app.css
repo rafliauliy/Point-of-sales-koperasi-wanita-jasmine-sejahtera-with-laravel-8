@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* CSS untuk latar belakang halaman login */
+.login-box {
+    background-image: url('/images/backgrounds/background-toko.jpg'); /* Gantilah dengan path ke gambar latar belakang Anda */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
